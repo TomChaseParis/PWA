@@ -1,0 +1,16 @@
+
+*************************** UTILISER UNE API ****************************
+
+9418b4e3f6191878c333d3468da86e10
+https://api.themoviedb.org/3/search/movie?api_key=9418b4e3f6191878c333d3468da86e10
+&query=Jack+Reacher
+
+// On enlève les accolades et ce qui s'y trouve {api_key} pour y insérer notre clé API
+
+
+9418b4e3f6191878c333d3468da86e10
+
+https://api.themoviedb.org/3/movie/550?api_key=9418b4e3f6191878c333d3468da86e10&query=Jack+Reacher
+
+
+
